@@ -1,0 +1,22 @@
+*#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	return 0;
+}*/
+#include<wishes.h>
+#include<pataka.h>
+#include<happiness.h>
+void main()
+{
+int khadkhaya,laddu,charkhi,sutli bomb;
+clrscr();
+if(date==23 oct)
+printf("Happy Diwali");
+else if(date==24 oct)
+printf("Happy NewYEAR in advance");
+else
+printf("Happy Diwali & NEWYEAR in Advance");
+getch(smiles☺);
+}
